@@ -1,0 +1,2 @@
+# ajuda
+ajuda da aula 
